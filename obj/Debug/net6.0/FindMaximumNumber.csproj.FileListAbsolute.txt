@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.exe
+C:\Users\prati\source\repos\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.deps.json
+C:\Users\prati\source\repos\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.runtimeconfig.json
+C:\Users\prati\source\repos\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.dll
+C:\Users\prati\source\repos\FindMaximumNumber\bin\Debug\net6.0\ref\FindMaximumNumber.dll
+C:\Users\prati\source\repos\FindMaximumNumber\bin\Debug\net6.0\FindMaximumNumber.pdb
+C:\Users\prati\source\repos\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.AssemblyInfo.cs
+C:\Users\prati\source\repos\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.dll
+C:\Users\prati\source\repos\FindMaximumNumber\obj\Debug\net6.0\ref\FindMaximumNumber.dll
+C:\Users\prati\source\repos\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.pdb
+C:\Users\prati\source\repos\FindMaximumNumber\obj\Debug\net6.0\FindMaximumNumber.genruntimeconfig.cache
